@@ -64,7 +64,6 @@ The environment included:
 - Subtasks
 - Reports
 
-![IT Support Help Desk](Ticket%20System/01-IT-Support-Help-Desk.png)
 
 ---
 
