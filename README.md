@@ -324,7 +324,6 @@ At this point, the problem was outside the normal scope of L1 troubleshooting.
 
 Escalation to Level 2 / Systems Administration was required.
 
-![L1 Troubleshooting Completed](Ticket%20System/10-Shared-Drive-L2-Escalation.png)
 
 ---
 
@@ -717,4 +716,4 @@ This project provides practical evidence of familiarity with the workflows commo
 
 ## Project Status
 
-**Completed ✅**
+**Completed**
